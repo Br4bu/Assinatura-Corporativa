@@ -1,0 +1,12 @@
+{
+  "name": "painel-assinaturas-email",
+  "version": "1.0.0",
+  "description": "Painel de Assinaturas TOPGEO",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^29.3.0"
+  }
+}
